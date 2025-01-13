@@ -2,8 +2,8 @@
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 # 🖁 Contact Me:
-<img src="https://github.com/user-attachments/assets/607f29fa-fce0-49b2-a2e8-5a1c9afabe50" width="10" />
- sezerD8
+<img src="https://github.com/user-attachments/assets/607f29fa-fce0-49b2-a2e8-5a1c9afabe50" width="15" />
+sezerD8
 
 
 # 💻 Tech Stack:
