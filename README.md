@@ -9,5 +9,3 @@ Diğer birkaç proje:
 - [dernekScript](https://github.com/sezerD8/dernekScript) - dernekler için üye ve ödeme takip scripti (PHP)
 
 Kullandıklarım: C#, .NET, PHP, Laravel, Python, JavaScript, HTML/CSS, Tailwind, MySQL, Flutter
-
-İletişim: <img src="https://github.com/user-attachments/assets/607f29fa-fce0-49b2-a2e8-5a1c9afabe50" width="15" /> sezerd08
